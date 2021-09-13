@@ -1,4 +1,4 @@
-# Webscraper
+# Find the luckiest numbers in Lotto Max
 
 *Author: Subin Moon*
 
